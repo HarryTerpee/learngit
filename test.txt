@@ -3,3 +3,4 @@ version 3 has been updated
 version 3 has been updated again and again
 hello, this is GLaDOS, I'm gonna kill you, seriously.
 hi, I'm Wheatly. I can help you defeat that evil robot.
+Wheatly: I think there is no need for you to escape, right?
